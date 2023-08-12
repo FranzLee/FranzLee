@@ -3,7 +3,7 @@
 - 🏫 I'm a student of CKHS.
 - 📫 How to reach me ?
     - Mail : franz.e.lee@gmail.com
-    - Ig : franz_lee_0330
+    - IG : franz_lee_0330
     - FB : franz_lee
 
 <!---
