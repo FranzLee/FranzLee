@@ -6,7 +6,7 @@
 - 📫 How to reach me ?
     - Mail : franz.e.lee@gmail.com
     - IG : franz_lee_0330
-    - FB : franz_lee
+    - FB : <a href="https://www.facebook.com/franz.lee.56">Franz Lee</a>
 
 <!---
 FranzLee/FranzLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
