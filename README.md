@@ -1,5 +1,6 @@
 - 👋 Hello, I’m @FranzLee.
 - 👀 I’m interested in playing basketball, games...
+- 💻 I use HTML, JS to code.
 - 🏫 I'm a student of CKHS.
 - 🏠 I'm living in Taipei, Taiwan.
 - 📫 How to reach me ?
