@@ -5,7 +5,7 @@
 - 🏠 I'm living in Taipei, Taiwan.
 - 📫 How to reach me ?
     - Mail : franz.e.lee@gmail.com
-    - IG : franz_lee_0330
+    - IG : <a href="https://www.instagram.com/franz_lee_qaq/">franz_lee_qaq</a>
     - FB : <a href="https://www.facebook.com/franz.lee.56">Franz Lee</a>
 
 <!---
